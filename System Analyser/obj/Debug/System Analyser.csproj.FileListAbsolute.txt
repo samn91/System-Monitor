@@ -1,0 +1,16 @@
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\obj\Debug\System_Analyser.Form1.resources
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\obj\Debug\System_Analyser.Properties.Resources.resources
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\obj\Debug\System Analyser.csproj.GenerateResource.Cache
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\bin\Debug\System Analyser.exe
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\bin\Debug\System Analyser.pdb
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\obj\Debug\System Analyser.exe
+C:\Users\S a m e r\Documents\Visual Studio 2008\Projects\System Analyser\System Analyser\obj\Debug\System Analyser.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\System Analyser\System Analyser\obj\Debug\System Analyser.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\System Analyser\System Analyser\obj\Debug\System Analyser.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\marge\New folder (3)\System Analyser\System Analyser\obj\Debug\System Analyser.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\marge\New folder (3)\System Analyser\System Analyser\obj\Debug\System Analyser.pdb
+C:\Users\oolo\Documents\Visual Studio 2012\Projects\C#\marge\New folder (3)\System Analyser\System Analyser\obj\Debug\System Analyser.exe
+C:\Users\oolo\Documents\Visual Studio 2012\Projects\C#\marge\New folder (3)\System Analyser\System Analyser\obj\Debug\System Analyser.pdb
+C:\Users\oolo\Documents\Visual Studio 2012\Projects\C#\Done\System Analyser\System Analyser\obj\Debug\System Analyser.exe
+C:\Users\oolo\Documents\Visual Studio 2012\Projects\C#\Done\System Analyser\System Analyser\obj\Debug\System Analyser.pdb
